@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clone the repo
-   git clone https://github.com/yourusername/coworkinng-space.git
+   git clone 
 
 2. Create and activate virtual environment
    python -m venv venv
