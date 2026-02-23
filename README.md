@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clone the repo
-   git clone https://github.com/<youusername>/cowork-finder.git
+   git clone https://github.com/yourusername/coworkinng-space.git
 
 2. Create and activate virtual environment
    python -m venv venv
@@ -24,11 +24,11 @@
 ## API Endpoints
 
 
-GET /api/spaces/ - list all spaces
-POST /api/spaces/ - create a space
-GET /api/spaces/1/ - get a single space
-PUT /api/spaces/1/ - update a space
-DELETE /api/spaces/1/ - delete a space
+- GET /api/spaces/ - list all spaces
+- POST /api/spaces/ - create a space
+- GET /api/spaces/1/ - get a single space
+- PUT /api/spaces/1/ - update a space
+- DELETE /api/spaces/1/ - delete a space
 
 ## Tech Stack
 - Django
